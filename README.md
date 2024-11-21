@@ -11,6 +11,6 @@ JDK instalado.
 IDE Java (IntelliJ IDEA, Eclipse, etc.).
 
 Passos:
-# Clone o repositório: git clone https://github.com/GustavoSouza07/ProjetoLeda_passwords2.git 
-# Abra o projeto na IDE.
-# Execute a classe Main.
+### Clone o repositório: git clone https://github.com/GustavoSouza07/ProjetoLeda_passwords2.git 
+### Abra o projeto na IDE.
+### Execute a classe Main.
